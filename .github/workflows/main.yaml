@@ -19,4 +19,4 @@ jobs:
     needs: Compile
     steps:
       - name: Run JUnit Tests
-        run:  /gradlew test
+        run:  ./gradlew test

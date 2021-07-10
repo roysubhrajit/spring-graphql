@@ -1,8 +1,0 @@
-com/roy/example/EchoHandler.java
- com.roy.example.EchoHandler
-com/roy/example/Router.java
- com.roy.example.Router
-com/roy/example/Echo.java
- com.roy.example.Echo
-com/roy/example/App.java
- com.roy.example.App

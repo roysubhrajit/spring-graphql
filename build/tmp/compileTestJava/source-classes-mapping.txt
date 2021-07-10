@@ -1,4 +1,0 @@
-com/roy/example/EchoHandlerTest.java
- com.roy.example.EchoHandlerTest
-com/roy/example/EchoTest.java
- com.roy.example.EchoTest
